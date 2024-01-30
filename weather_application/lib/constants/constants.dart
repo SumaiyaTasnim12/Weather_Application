@@ -1,0 +1,1 @@
+const base_url = "http://api.weatherapi.com/v1/forecast.json?key=ca0910abeee244fba8c114621242701";
